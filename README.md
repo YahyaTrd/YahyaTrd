@@ -16,8 +16,7 @@ because I still Learning Programming languages
 My skills👊:
 
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0ed69a9b-bab5-4cb7-bcf6-8ffedbb57783" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e201c277-35f1-40e8-81e1-5cebe0ce3595" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/136ba325-dd66-4a4f-b2a7-2d246096c3e0" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9772d5d4-1abc-4fa1-8e81-0d01433a386f" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0061a2b7-f54c-4ec7-8c62-2df89e760b0a" />
-
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 
