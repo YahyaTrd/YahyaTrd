@@ -1,7 +1,6 @@
 ## Hi there 👋
-# YahyaTaouarda
 
-<img width="1280" height="720" alt="YahyaTaouarda" src="https://github.com/user-attachments/assets/21667b8f-e816-42ec-9cee-e6c965ee7d1b" />
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/cdd65d4a-9e52-4b5b-82e2-beb85eaa50c0" />
 
 Hello My Name is yahya taouarda web developper, ilove create websites 
 
