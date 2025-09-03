@@ -10,7 +10,7 @@ Hello My Name is yahya taouarda web developper, ilove create websites
 because I still Learning Programming languages
 
 -I’m currently learning New Things🧠
-
+##
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -22,6 +22,12 @@ because I still Learning Programming languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+<div align="center">
+    
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=YahyaTrd&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaTrd&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ###
@@ -49,10 +55,7 @@ because I still Learning Programming languages
 ###
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YahyaTrd&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaTrd&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=YahyaTrd&icon=0&color=0)](https://visitcount.itsvg.in)
                                                                                                                                                
 ![ghostedvpn-hacker-cat](https://github.com/user-attachments/assets/8e26bd6a-b7ba-4cc5-aad2-94cda73d170e)
