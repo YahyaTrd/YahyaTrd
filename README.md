@@ -1,5 +1,5 @@
 
-<h3 align="center">أَسْــــــتَغْفِرُ اللهَ ولاحول ولا قوة إلا بالله</h3>
+<!--<h3 align="center">أَسْــــــتَغْفِرُ اللهَ ولاحول ولا قوة إلا بالله</h3>-->
 
 <br/>
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/6d224d2c-d552-4cd4-ab2a-502a0ff74a1b" />
